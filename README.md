@@ -15,5 +15,23 @@ python client.py server.py
 
 ![imagen](https://github.com/user-attachments/assets/49fb8994-031b-4b44-b4f0-3e60a9e10903)
 
+* Características clave:
+
+    Integración completa con Ollama: Usa aiohttp para llamadas asíncronas
+
+    Manejo de herramientas MCP: Listado básico y llamado de herramientas
+
+    * Interfaz interactiva mejorada:
+
+        Soporte para cambiar modelos con /model <nombre_modelo>
+
+        Formateo limpio de respuestas
+
+        Manejo de errores robusto
+
+        Conexión estable al servidor MCP
+
+        Cierre limpio de recursos
+
 https://modelcontextprotocol.io/introduction
 
