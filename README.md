@@ -14,3 +14,6 @@ pip install -r requirements.txt
 python client.py server.py
 
 ![imagen](https://github.com/user-attachments/assets/49fb8994-031b-4b44-b4f0-3e60a9e10903)
+
+https://modelcontextprotocol.io/introduction
+
